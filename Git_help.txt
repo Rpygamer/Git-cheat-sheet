@@ -1,0 +1,13 @@
+git config --global user.email 'thamer.rabaaoui@outlook.com'
+git config --global user.name 'thamer rabaaoui'
+
+
+git status
+git add .
+git commit -m "message"
+git push origin master
+
+git remote -v : list your remote 
+git remote set-url origin https:..... : to chnage url of Origin
+
+
